@@ -1,0 +1,18 @@
+.nv{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f4f9fc;
+    padding: .5rem;
+    font-weight: bolder;
+}
+.nv>*{
+    font-family:cursive;
+    font-size: 2rem;
+}
+.crd{
+    padding: 0rem 1rem;
+}
+#comp{
+    text-decoration: none;
+    color:  white;
+}

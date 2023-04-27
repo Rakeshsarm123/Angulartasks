@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Casio AE-1200",
+      "price": 2500,
+      "type": "Watch",
+      "image": "casio.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Airpods",
+        "price": 4500,
+        "type": "Electronics",
+        "image": "airpods.jpg"
+  
+      },{
+        "id": 3,
+        "name": "Organic Rice",
+        "price": 103,
+        "type": "Groceries",
+        "image": "rice.jpg"
+  
+      },{
+        "id": 4,
+        "name": "VIRAT BIOPIC",
+        "price": 1700,
+        "type": "Books",
+        "image": "aot-1.jpg"
+  
+      },{
+        "id": 5,
+        "name": "Boat Airdopes 441 ",
+        "price": 3500,
+        "type": "Electronics",
+        "image": "boatairpods.jpg"
+  
+      },{
+        "id": 6,
+        "name": "Pizz(20 Inch)",
+        "price": 115,
+        "type": "Groceries",
+        "image": "oats.jpg"
+  
+      },{
+        "id": 7,
+        "name": "Armani Exchange Men Watch",
+        "price": 25000,
+        "type": "Watch",
+        "image": "ax.jpg"
+  
+      },{
+        "id": 8,
+        "name": "Naruto",
+        "price": 1600,
+        "type": "Books",
+        "image": "naruto.jpg"
+  
+      },{
+        "id": 9,
+        "name": "Jaguar",
+        "price": 940,
+        "type": "Cosmetics",
+        "image": "jaguar.jpg"
+  
+      },{
+        "id": 10,
+        "name": "Asus Zenbook 14X 2022",
+        "price": 250000,
+        "type": "Electronics",
+        "image": "lap.jpg"
+  
+      },{
+        "id": 11,
+        "name": "Powder",
+        "price": 290,
+        "type": "Cosmetics",
+        "image": "face.jpg"
+  
+      }
+  ]
+}

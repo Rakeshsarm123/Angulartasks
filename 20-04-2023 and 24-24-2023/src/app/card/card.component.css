@@ -1,0 +1,45 @@
+
+.container{
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    flex-wrap:wrap;
+    background-color: white;
+    flex-direction: row;
+    margin: 0rem 500rem;
+    padding: 0rem 5rem;
+    justify-content: top;
+}
+.bx{
+    padding: .5rem 0rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+mat-slider {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rebeccapurple;
+    color: white;
+
+}
+.slt{
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hd{
+    display: flex;
+    background-color: whitesmoke;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+

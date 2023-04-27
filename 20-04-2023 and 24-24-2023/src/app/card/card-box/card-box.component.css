@@ -1,0 +1,16 @@
+.example-card {
+    max-width: 400px;
+    background-attachment:fixed;
+    background-color: rebeccapurple;
+  }
+  
+.price{
+    margin: 1rem;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.image{
+  width: 200px;
+  height: 150px;
+}

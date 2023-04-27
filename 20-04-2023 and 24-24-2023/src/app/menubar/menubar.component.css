@@ -1,0 +1,14 @@
+.nv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rebeccapurple;
+    padding: 1rem 1.5rem;
+}
+.nv>*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2rem;
+}
+.crd{
+    padding: 0rem 1rem;
+}
