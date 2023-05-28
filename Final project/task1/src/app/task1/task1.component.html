@@ -1,0 +1,12 @@
+<div>
+    <input type="text" [(ngModel)]="userString" placeholder="Enter a string">
+    <button (click)="displayString()">Display</button>
+  </div>
+  
+  <div *ngIf="displayedString">
+    <span *ngFor="let letter of displayedString; let i = index"
+          [ngClass]="{ 'even': i % 2 === 0, 'odd': i % 2 !== 0 }">
+      {{ letter }}
+    </span>
+  </div>
+  
